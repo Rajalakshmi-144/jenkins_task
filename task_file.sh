@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "Hello, this is my file!"
 echo "created webhook"
-echo "trigger output via mail "
+echo "Thecommit is maid and trigger output via mail "
 
